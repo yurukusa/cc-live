@@ -67,7 +67,7 @@ The estimate is useful for understanding **relative session cost** and burn rate
 
 ## Part of cc-toolkit
 
-cc-live is one of 38 free tools for Claude Code users.
+cc-live is one of 39 free tools for Claude Code users.
 
 **→ [See all tools at yurukusa.github.io/cc-toolkit](https://yurukusa.github.io/cc-toolkit/)**
 
